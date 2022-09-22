@@ -1,0 +1,9 @@
+{
+  "response": "OK",
+  "chain": "rinkeby",
+  "transaction_hash": "0xad36e2a06ae533c199d1b90c338653c4c5884951fdcd2272ce56767eebda3901",
+  "transaction_external_url": "https://rinkeby.etherscan.io/tx/0xad36e2a06ae533c199d1b90c338653c4c5884951fdcd2272ce56767eebda3901",
+  "owner_address": "0x910860A647CdbcDe17EA424bE8fD2D0B78dA6a89",
+  "name": "CryptoBoobLovers",
+  "symbol": "CBL"
+}
