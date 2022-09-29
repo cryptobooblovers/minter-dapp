@@ -72,7 +72,7 @@ const PRESALE_MINT_START_DATE = "2022-09-25T11:30:48+00:00"; // Optional. Eg: 20
 const ROYALTY_SHARE = 250; // Percentage of the token price that goes to the royalty address. 100 bps = 1%
 const ROYALTY_ADDRESS = "0x910860A647CdbcDe17EA424bE8fD2D0B78dA6a89"; // Address that will receive the royalty
 const BASE_URI = "ipfs://bafybeihwq3e57or3wycpwteehljkguo5xkga755jmcffn6vyaony52beny"; // only update if you want to manually set the base uri
-const PREREVEAL_TOKEN_URI = null; // only update if you want to manually set the prereveal token uri
+const PREREVEAL_TOKEN_URI = "ipfs://bafybeihwq3e57or3wycpwteehljkguo5xkga755jmcffn6vyaony52beny"; // only update if you want to manually set the prereveal token uri
 const PRESALE_WHITELISTED_ADDRESSES = []; // only update if you want to manually set the whitelisted addresses
 
 // ** OPTIONAL **
