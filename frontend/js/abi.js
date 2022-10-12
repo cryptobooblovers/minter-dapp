@@ -1,5 +1,8 @@
 const abi = [
+<<<<<<< HEAD
   
+=======
+>>>>>>> a05415da999897c1ed1891753d7cfff0479e85fa
     {
       "inputs": [
         {
@@ -1563,5 +1566,9 @@ const abi = [
       "type": "function",
       "signature": "0x476343ee"
     }
+<<<<<<< HEAD
   
 ]
+=======
+]
+>>>>>>> a05415da999897c1ed1891753d7cfff0479e85fa
