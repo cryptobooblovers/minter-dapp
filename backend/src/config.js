@@ -9,7 +9,7 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = "CryptoBoobLovers";
 const description = "The Crypto Boob Lovers is a collection of 10,000 unique nude female NFTs— unique digital collectibles living on the Ethereum blockchain. They are handcrafted collection of 10,000 beautiful characters developed by professional graphic designer team. Each with their own identity to be discovered within the wider stories of Crypto Boob Lovers.  Visit www.CryptoBoobLovers.com for more details.";
-const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
+const baseUri = "ipfs://bafybeihwq3e57or3wycpwteehljkguo5xkga755jmcffn6vyaony52beny"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
 // If you have selected Solana then the collection starts from 0 automatically
